@@ -7,7 +7,7 @@
 :root {
     --primColor: #4E80EE;
     --secColor: #030616;
-    --grayColor: #D2D5DA;
+    --grayColor: #f0f2f7;
     --whiteOne: #F8FAFC;
     --whiteTwo: #FFFFFF;
 }
@@ -77,4 +77,5 @@ hr {
 
 .bold {
     font-weight: bold;
+
 }
